@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
                     tab.text = "TAB 3"
                 }
             }
-
         }.attach()
     }
 }
