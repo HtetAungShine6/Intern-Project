@@ -34,6 +34,5 @@ class Fragment1 : Fragment() {
        btnSave.setOnClickListener {
            model.sendMessage(edText.text.toString())
         }
-
     }
 }

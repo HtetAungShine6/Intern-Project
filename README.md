@@ -1,5 +1,9 @@
 # TODO Tutorial
 
+## About App
+- There is three fragments
+- User can text anything in fragment 1
+- And if the button in fragment 1 is clicked, user texts are imported to fragment 2
 
 ### Step 1.0.0
 - Setup 3 fragments with Viewpager

@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
-import com.example.todo.android.databinding.Fragment2Binding
 import kotlinx.android.synthetic.main.fragment_2.*
 
 class Fragment2 : Fragment() {
